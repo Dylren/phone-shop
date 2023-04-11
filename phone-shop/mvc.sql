@@ -3,9 +3,9 @@
 -- https://www.phpmyadmin.net/
 --
 -- Hôte : 127.0.0.1
--- Généré le : ven. 10 mars 2023 à 16:55
+-- Généré le : mar. 11 avr. 2023 à 16:44
 -- Version du serveur : 10.4.27-MariaDB
--- Version de PHP : 8.1.12
+-- Version de PHP : 8.2.0
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
@@ -44,10 +44,10 @@ CREATE TABLE `accessoire` (
 
 CREATE TABLE `achat` (
   `id` int(11) NOT NULL,
-  `id_telephone` int(11) NULL,
+  `id_telephone` int(11) DEFAULT NULL,
   `id_commande` int(11) NOT NULL,
   `quantity` int(11) NOT NULL,
-  `id_accessoire` int(11) NULL
+  `id_accessoire` int(11) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
 --
@@ -117,8 +117,8 @@ CREATE TABLE `telephone` (
 --
 
 INSERT INTO `telephone` (`id`, `nom`, `prix`, `stockage`, `description`, `quantity`, `image`) VALUES
-(4, 'Samsung s23', 1500, '512Go', 'super tel qui peut tout faire ', 21, '06032023134601s23.jpg'),
-(5, 'iphone', 1800, '256Go', 'il est chère et pas ouf', 19, '06032023142215iphone.jpg');
+(4, 'Samsung s23', 1500, '512Go', 'Test', 21, '06032023134601s23.jpg'),
+(5, 'iphone', 1800, '256Go', 'iPhone', 19, '06032023142215iphone.jpg');
 
 -- --------------------------------------------------------
 
