@@ -16,8 +16,8 @@ I. Fonctionnalités:
 
 II. Technologies utilisées:
 
-PHP
-Bootstrap
+PHP,
+Bootstrap.
 
 III. Comment lancer le projet:
 
