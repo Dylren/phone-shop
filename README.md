@@ -1,6 +1,7 @@
 # phone-shop
 Premier projet PHP orienté objet effectué à Doranco.
-First PHP oriented object @ Doranco
+
+First PHP oriented object @ Doranco.
 
 FRENCH :
 
