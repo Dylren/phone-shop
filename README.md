@@ -8,11 +8,11 @@ Ce projet est une boutique en ligne de smartphones, codée en PHP orienté objet
 
 I. Fonctionnalités:
 
-Catalogue de smartphones avec images, descriptions et prix
-Ajout de produits au panier d'achat
-Gestion de panier d'achat avec la possibilité de supprimer ou modifier les quantités de produits
-Formulaire de commande pour les informations de livraison et de paiement
-Confirmation de commande avec un récapitulatif de la commande
+1. Catalogue de smartphones avec images, descriptions et prix.
+2. Ajout de produits au panier d'achat.
+3. Gestion de panier d'achat avec la possibilité de supprimer ou modifier les quantités de produits.
+4. Formulaire de commande pour les informations de livraison et de paiement.
+5. Confirmation de commande avec un récapitulatif de la commande.
 
 II. Technologies utilisées:
 
