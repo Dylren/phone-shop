@@ -1,11 +1,11 @@
 # phone-shop
-Premier projet PHP orienté objet effectué à Doranco.
+Premier projet PHP orienté objet effectué à l'école Doranco.
 
-First PHP oriented object @ Doranco.
+First PHP oriented object @ Doranco School.
 
 FRENCH :
 
-Ce projet est une boutique en ligne de smartphones, codée en PHP orienté objet et avec un front-end construit en Bootstrap. Il est conçu pour permettre aux utilisateurs d'acheter des smartphones en ligne de manière pratique et sécurisée.
+Ce projet est une boutique en ligne de smartphones, codée en PHP orienté objet et avec un front-end construit en Bootstrap. Il est conçu pour permettre aux utilisateurs d'acheter des smartphones en ligne de manière pratique et sécurisée. J'insiste sur le fait que ce projet m'a permis de découvrir et de comprendre PHPOO.
 
 I. Fonctionnalités:
 
